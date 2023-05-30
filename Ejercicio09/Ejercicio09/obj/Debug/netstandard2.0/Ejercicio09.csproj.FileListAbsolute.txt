@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Ejercicio09\Ejercicio09\Ejercicio09\obj\Debug\netstandard2.0\Ejercicio09.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ejercicio09\Ejercicio09\Ejercicio09\obj\Debug\netstandard2.0\Ejercicio09.GeneratedMSBuildEditorConfig.editorconfig
